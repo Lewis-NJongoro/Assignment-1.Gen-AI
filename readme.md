@@ -16,8 +16,14 @@ A scientific calculator with history tracking functionality.
 
 ## How to Use
 1. Run the program:
-### Python `python3 main.py`
-### Jac `jac main.jac`
+### a) Python
+```bash
+python3 main.py
+```
+### b) Jac
+```bash
+jac main.jac
+```
 2. Select operation from the menu
 3. Enter required numbers when prompted
 4. View result and automatic history tracking
